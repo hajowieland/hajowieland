@@ -4,6 +4,14 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 
+## 👨🏻‍💻 Work
+
+Working with ❤️ and 🥳 at [ventx GmbH](http://ventx.de) in Munich 🥨, Germany 🇩🇪.
+
+<a href="https://www.ventx.de/karriere.html">
+  <img align="center" src="https://i.imgur.com/oAb2qHo.png" alt="ventx Karriere We Are Hiring" />
+</a>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
