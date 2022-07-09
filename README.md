@@ -1,7 +1,7 @@
 ### Hy there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hajowieland)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 
 ## 🔧 Technologies & Tools
