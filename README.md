@@ -6,11 +6,7 @@
 
 ## 👨🏻‍💻 Work
 
-Working with ❤️ and 🥳 at [ventx GmbH](http://ventx.de) in Munich 🥨, Germany 🇩🇪.
-
-<a href="https://www.ventx.de/karriere.html">
-  <img align="center" src="https://i.imgur.com/oAb2qHo.png" alt="ventx Karriere We Are Hiring" />
-</a>
+Working with ❤️ and 🥳 in Munich 🥨, Germany 🇩🇪.
 
 ## 🔧 Technologies & Tools
 
